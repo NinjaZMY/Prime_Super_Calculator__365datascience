@@ -1,4 +1,4 @@
-# prime_attempt_365datascience: 
+# Prime_Super_Calculator__365datascience
 related to the 365datascience prime project, this is an attempt, the first commit is incomplete, 
 
 I wouldn't pursue further optimizations because it's no longer fun for me when I proved to myself that I'm able to optimize the whole thing 
